@@ -6,3 +6,7 @@
 * Switch 
 * Router
 * Types of Network 
+* osi model
+* Multiplexing
+* types of Multiplexing
+* 
